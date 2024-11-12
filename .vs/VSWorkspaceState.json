@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WindowsFormsApp1",
+    "\\WindowsFormsApp1\\WindowsFormsApp1"
   ],
-  "SelectedNode": "\\C:\\Users\\Admin\\Desktop\\Бэкап\\Новая папка",
+  "SelectedNode": "\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
